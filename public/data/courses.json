@@ -1,0 +1,126 @@
+[
+    {
+        "id": "C001",
+        "title": "Introduction to JavaScript",
+        "status": "in_progress",
+        "instructorId": "I002",
+        "startDate": "2025-07-01",
+        "endDate": "2025-08-15",
+        "studentsEnrolled": 120,
+        "priceUSD": 99
+    },
+    {
+        "id": "C004",
+        "title": "Advanced React",
+        "status": "in_progress",
+        "instructorId": "I002",
+        "startDate": "2025-06-15",
+        "endDate": "2025-08-01",
+        "studentsEnrolled": 85,
+        "priceUSD": 149
+    },
+    {
+        "id": "C005",
+        "title": "Machine Learning Basics",
+        "status": "in_progress",
+        "instructorId": "I003",
+        "startDate": "2025-05-20",
+        "endDate": "2025-07-30",
+        "studentsEnrolled": 110,
+        "priceUSD": 179
+    },
+    {
+        "id": "C006",
+        "title": "Digital Marketing 101",
+        "status": "in_progress",
+        "instructorId": "I001",
+        "startDate": "2025-06-01",
+        "endDate": "2025-07-20",
+        "studentsEnrolled": 95,
+        "priceUSD": 129
+    },
+    {
+        "id": "C002",
+        "title": "UX Design Fundamentals",
+        "status": "planned",
+        "instructorId": "I003",
+        "plannedStartDate": "2025-09-01",
+        "plannedEndDate": "2025-10-15",
+        "budgetUSD": 5000,
+        "priceUSD": 199
+    },
+    {
+        "id": "C008",
+        "title": "Cloud Computing Essentials",
+        "status": "planned",
+        "instructorId": "I004",
+        "plannedStartDate": "2025-10-05",
+        "plannedEndDate": "2025-11-20",
+        "budgetUSD": 6000,
+        "priceUSD": 159
+    },
+    {
+        "id": "C009",
+        "title": "Cybersecurity Fundamentals",
+        "status": "planned",
+        "instructorId": "I005",
+        "plannedStartDate": "2025-09-15",
+        "plannedEndDate": "2025-11-01",
+        "budgetUSD": 7000,
+        "priceUSD": 189
+    },
+    {
+        "id": "C010",
+        "title": "Project Management Basics",
+        "status": "planned",
+        "instructorId": "I005",
+        "plannedStartDate": "2025-11-10",
+        "plannedEndDate": "2025-12-22",
+        "budgetUSD": 4500,
+        "priceUSD": 139
+    },
+    {
+        "id": "C003",
+        "title": "Data Structures in Python",
+        "status": "finished",
+        "instructorId": "I001",
+        "startDate": "2025-04-01",
+        "endDate": "2025-05-20",
+        "averageGrade": 88,
+        "studentsCompleted": 95,
+        "priceUSD": 129
+    },
+    {
+        "id": "C011",
+        "title": "Graphic Design Principles",
+        "status": "finished",
+        "instructorId": "I004",
+        "startDate": "2025-02-01",
+        "endDate": "2025-03-15",
+        "averageGrade": 92,
+        "studentsCompleted": 75,
+        "priceUSD": 119
+    },
+    {
+        "id": "C012",
+        "title": "Financial Accounting",
+        "status": "finished",
+        "instructorId": "I005",
+        "startDate": "2025-01-10",
+        "endDate": "2025-02-28",
+        "averageGrade": 85,
+        "studentsCompleted": 60,
+        "priceUSD": 109
+    },
+    {
+        "id": "C013",
+        "title": "Public Speaking Mastery",
+        "status": "finished",
+        "instructorId": "I005",
+        "startDate": "2024-12-01",
+        "endDate": "2025-01-20",
+        "averageGrade": 90,
+        "studentsCompleted": 80,
+        "priceUSD": 99
+    }
+]

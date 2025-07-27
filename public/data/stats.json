@@ -1,0 +1,194 @@
+{
+    "summary": {
+        "totalCourses": 12,
+        "totalStudents": 5,
+        "activeInstructors": 4,
+        "budgetUSD": "50,000$",
+        "profitUSD": "15,000$",
+        "lossUSD": "15,000$"
+    },
+    "trends": {
+        "students": [
+            {
+                "month": "2025-01",
+                "count": 420
+            },
+            {
+                "month": "2025-02",
+                "count": 480
+            },
+            {
+                "month": "2025-03",
+                "count": 550
+            },
+            {
+                "month": "2025-04",
+                "count": 620
+            },
+            {
+                "month": "2025-05",
+                "count": 700
+            },
+            {
+                "month": "2025-06",
+                "count": 780
+            },
+            {
+                "month": "2025-07",
+                "count": 850
+            }
+        ],
+        "courses": [
+            {
+                "month": "2025-01",
+                "count": 18
+            },
+            {
+                "month": "2025-02",
+                "count": 19
+            },
+            {
+                "month": "2025-03",
+                "count": 20
+            },
+            {
+                "month": "2025-04",
+                "count": 22
+            },
+            {
+                "month": "2025-05",
+                "count": 24
+            },
+            {
+                "month": "2025-06",
+                "count": 26
+            },
+            {
+                "month": "2025-07",
+                "count": 28
+            }
+        ]
+    },
+    "gradeHexogram": {
+        "A": 400,
+        "B": 480,
+        "C": 260,
+        "D": 75,
+        "F": 20
+    },
+    "studentLocation": [
+        {
+            "country": "Qatar",
+            "percentage": 30
+        },
+        {
+            "country": "India",
+            "percentage": 18
+        },
+        {
+            "country": "USA",
+            "percentage": 16
+        },
+        {
+            "country": "Egypt",
+            "percentage": 12
+        },
+        {
+            "country": "Spain",
+            "percentage": 8
+        },
+        {
+            "country": "Other",
+            "percentage": 16
+        }
+    ],
+    "topCourses": [
+        {
+            "courseId": "C001",
+            "title": "Introduction to JavaScript",
+            "students": 120
+        },
+        {
+            "courseId": "C005",
+            "title": "Machine Learning Basics",
+            "students": 110
+        },
+        {
+            "courseId": "C006",
+            "title": "Digital Marketing 101",
+            "students": 95
+        },
+        {
+            "courseId": "C003",
+            "title": "Data Structures in Python",
+            "students": 95
+        },
+        {
+            "courseId": "C004",
+            "title": "Advanced React",
+            "students": 85
+        }
+    ],
+    "coursePrices": [
+        {
+            "courseId": "C001",
+            "title": "Introduction to JavaScript",
+            "priceUSD": 99
+        },
+        {
+            "courseId": "C004",
+            "title": "Advanced React",
+            "priceUSD": 149
+        },
+        {
+            "courseId": "C005",
+            "title": "Machine Learning Basics",
+            "priceUSD": 179
+        },
+        {
+            "courseId": "C006",
+            "title": "Digital Marketing 101",
+            "priceUSD": 129
+        },
+        {
+            "courseId": "C002",
+            "title": "UX Design Fundamentals",
+            "priceUSD": 199
+        },
+        {
+            "courseId": "C008",
+            "title": "Cloud Computing Essentials",
+            "priceUSD": 159
+        },
+        {
+            "courseId": "C009",
+            "title": "Cybersecurity Fundamentals",
+            "priceUSD": 189
+        },
+        {
+            "courseId": "C010",
+            "title": "Project Management Basics",
+            "priceUSD": 139
+        },
+        {
+            "courseId": "C003",
+            "title": "Data Structures in Python",
+            "priceUSD": 129
+        },
+        {
+            "courseId": "C011",
+            "title": "Graphic Design Principles",
+            "priceUSD": 119
+        },
+        {
+            "courseId": "C012",
+            "title": "Financial Accounting",
+            "priceUSD": 109
+        },
+        {
+            "courseId": "C013",
+            "title": "Public Speaking Mastery",
+            "priceUSD": 99
+        }
+    ]
+}

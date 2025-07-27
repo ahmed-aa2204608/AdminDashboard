@@ -1,0 +1,14 @@
+{
+  "adminProfile": {
+    "id": "A001",
+    "name": "Jack",
+    "email": "admin@elearn.com",
+    "avatarUrl": "/avatars/admin.png",
+    "password": "123456"
+  },
+  "preferences": {
+    "darkMode": true,
+    "notifications": true,
+    "language": "en-US"
+  }
+}

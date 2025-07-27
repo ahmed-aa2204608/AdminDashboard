@@ -1,0 +1,125 @@
+{
+    "students": [
+        {
+            "id": "S001",
+            "name": "Aisha Ahmed",
+            "email": "aisha@example.com",
+            "country": "Qatar",
+            "avatarUrl": "/avatars/aisha.png",
+            "enrolledCourses": [
+                "C001",
+                "C004"
+            ]
+        },
+        {
+            "id": "S002",
+            "name": "John Smith",
+            "email": "john@example.com",
+            "country": "USA",
+            "avatarUrl": "/avatars/john.png",
+            "enrolledCourses": [
+                "C001",
+                "C002",
+                "C005"
+            ]
+        },
+        {
+            "id": "S003",
+            "name": "Priya Singh",
+            "email": "priya@example.com",
+            "country": "India",
+            "avatarUrl": "/avatars/priya.png",
+            "enrolledCourses": [
+                "C006",
+                "C002"
+            ]
+        },
+        {
+            "id": "S004",
+            "name": "Ahmed Hassan",
+            "email": "ahmed@example.com",
+            "country": "Egypt",
+            "avatarUrl": "/avatars/ahmed.png",
+            "enrolledCourses": [
+                "C003",
+                "C006",
+                "C011"
+            ]
+        },
+        {
+            "id": "S005",
+            "name": "Maria Gonzales",
+            "email": "maria@example.com",
+            "country": "Spain",
+            "avatarUrl": "/avatars/maria.png",
+            "enrolledCourses": [
+                "C003",
+                "C008"
+            ]
+        }
+    ],
+    "instructors": [
+        {
+            "id": "I001",
+            "name": "Dr. Sara Khan",
+            "email": "sara@example.com",
+            "country": "Pakistan",
+            "avatarUrl": "/avatars/sara.png",
+            "coursesTeaching": [
+                "C003",
+                "C006"
+            ],
+            "isActive": true
+        },
+        {
+            "id": "I002",
+            "name": "Carlos Diaz",
+            "email": "carlos@example.com",
+            "country": "Spain",
+            "avatarUrl": "/avatars/carlos.png",
+            "coursesTeaching": [
+                "C001",
+                "C004"
+            ],
+            "isActive": true
+        },
+        {
+            "id": "I003",
+            "name": "Emily Zhao",
+            "email": "emily@example.com",
+            "country": "China",
+            "avatarUrl": "/avatars/emily.png",
+            "coursesTeaching": [
+                "C002",
+                "C005"
+            ],
+            "isActive": false
+        },
+        {
+            "id": "I004",
+            "name": "Michael Lee",
+            "email": "michael@example.com",
+            "country": "USA",
+            "avatarUrl": "/avatars/michael.png",
+            "coursesTeaching": [
+                "C008",
+                "C011"
+            ],
+            "isActive": true
+        },
+        {
+            "id": "I005",
+            "name": "Fatima Al‑Thani",
+            "email": "fatima@example.com",
+            "country": "Qatar",
+            "avatarUrl": "/avatars/fatima.png",
+            "coursesTeaching": [
+                "C009",
+                "C010",
+                "C012",
+                "C013"
+            ],
+            "isActive": true
+        }
+    ]
+}
